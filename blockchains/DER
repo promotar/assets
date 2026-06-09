@@ -1,0 +1,11 @@
+{
+  "name": "Derham Coin",
+  "website": "https://derhamcoin.com",
+  "description": "Derham Coin is a BEP-20 digital token on BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x05babB8D319206a1A4FfD0e8633b82cd844a9682",
+  "type": "BEP20",
+  "symbol": "DER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x05babB8D319206a1A4FfD0e8633b82cd844a9682"
+}
